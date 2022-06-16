@@ -1,3 +1,7 @@
-.lead{ 
-    font-size: 2rem;
+.carousel-inner{
+    width: 60%;
+    margin: 0 auto;
+}
+.botones{
+    margin: 0 auto;
 }
