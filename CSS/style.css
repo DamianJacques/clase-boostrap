@@ -1,7 +1,14 @@
 .carousel-inner{
-    width: 60%;
+    width: 50%;
     margin: 0 auto;
 }
 .botones{
     margin: 0 auto;
+}
+.row{
+    justify-content: center;
+    
+}
+a{
+    text-decoration: none;
 }
